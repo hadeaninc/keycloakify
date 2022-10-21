@@ -272,7 +272,9 @@ const keycloakifyExtraMessages = {
         "shouldBeDifferent": "{0} should be different to {1}",
         "shouldMatchPattern": "Pattern should match: `/{0}/`",
         "mustBeAnInteger": "Must be an integer",
-        "notAValidOption": "Not a valid option"
+        "notAValidOption": "Not a valid option",
+        "doDontHaveAccount": "Don't have an account",
+        "doSignUp": "Sign up"
     },
     "fr": {
         /* spell-checker: disable */

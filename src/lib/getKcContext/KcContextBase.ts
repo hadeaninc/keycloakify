@@ -51,6 +51,7 @@ export declare namespace KcContextBase {
             resourcesCommonPath: string;
             loginRestartFlowUrl: string;
             loginUrl: string;
+            registrationUrl: string;
         };
         realm: {
             name: string;

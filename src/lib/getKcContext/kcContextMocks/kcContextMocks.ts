@@ -107,7 +107,8 @@ export const kcContextCommonMock: KcContextBase.Common = {
         "resourcesPath": pathJoin(PUBLIC_URL, mockTestingResourcesPath),
         "resourcesCommonPath": pathJoin(PUBLIC_URL, mockTestingResourcesCommonPath),
         "loginRestartFlowUrl": "/auth/realms/myrealm/login-actions/restart?client_id=account&tab_id=HoAx28ja4xg",
-        "loginUrl": "/auth/realms/myrealm/login-actions/authenticate?client_id=account&tab_id=HoAx28ja4xg"
+        "loginUrl": "/auth/realms/myrealm/login-actions/authenticate?client_id=account&tab_id=HoAx28ja4xg",
+        "registrationUrl": "/auth/realms/myrealm/login-actions/registration?client_id=account&tab_id=HoAx28ja4xg"
     },
     "realm": {
         "name": "myrealm",
